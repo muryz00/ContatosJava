@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Titulo">Contatos</string>
+    <string name="Nome">Nome</string>
+    <string name="Telefone">Telefone</string>
+    <string name="Email">Email</string>
+    <string name="Inserir">Inserir</string>
+    <string name="alt">Alterar</string>
+    <string name="Del">Deletar</string>
+    <string name="Lista">Lista</string>
+</resources>
